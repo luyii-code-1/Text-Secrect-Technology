@@ -1,2 +1,4 @@
-# Text-Secrect-Technology
-Text-Secrect-Technology文本加密
+## 该加密方式适用于纸质纸条传输
+## 包括以下版本
+- Tst_v1.2-LTS
+- Tst_v3.0-Pre 1
